@@ -29,7 +29,7 @@ export default function Page() {
           </span>
         </p>
         <p className="opacity-70 w-full h-[80%] flex flex-col items-center justify-center">
-          portrait photo <span>640 × 800</span>
+          portrait photo <span className="italic">640 × 800</span>
         </p>
       </div>
     </div>
